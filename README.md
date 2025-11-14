@@ -1,2 +1,3 @@
 # Social-Responsability-Assignment-Code
-Social Responsibility Assignment evidence of code for the students
+Aqui estaran todo los archivos de codigo creados para cada leccion
+
